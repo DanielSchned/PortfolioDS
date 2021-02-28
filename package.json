@@ -2,8 +2,7 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "main": "index.js",
-  "homepage": "https://danielschned.github.io/PortfolioDS/.",
+  "homepage": "https://danielschned.github.io/PortfolioDS",
   "dependencies": {
     "@apollo/client": "^3.3.6",
     "@material-ui/core": "^4.11.0",
