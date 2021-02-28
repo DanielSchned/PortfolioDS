@@ -18,7 +18,7 @@ function Box() {
         <li data-aos="fade-up" className="boxes" style = {{marginRight: 25}}> PHP </li>
         <li data-aos="fade-up" className="boxes" style = {{marginRight: 25}}> Java </li>
         <li data-aos="fade-up" className="boxes" style = {{marginRight: 25}}>HTML/CSS/JS </li>
-        <li data-aos="fade-up" class="boxes transitions" style = {{marginRight: 25}}> Swift </li>
+
         <hr className="hr"/>
       </ul>
     );
