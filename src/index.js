@@ -3,12 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {Helmet} from "react-helmet";
 
+const TITLE = 'Portfolio Daniel'
 
 ReactDOM.render(
 
   <React.StrictMode>
-    
+    <Helmet><title>{TITLE}</title></Helmet>
     <App />
     
 

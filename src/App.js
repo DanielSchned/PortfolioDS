@@ -14,8 +14,10 @@ import CV from './CV';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
 import Particles from 'react-particles-js';
 
+
 function App() {
   return (
+      
     <div >
       
       <Router>
