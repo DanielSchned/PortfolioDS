@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "index.js",
+  "homepage": "https://danielschned.github.io/PortfolioDS/.",
   "dependencies": {
     "@apollo/client": "^3.3.6",
     "@material-ui/core": "^4.11.0",
@@ -15,6 +16,7 @@
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.2.2",
     "aos": "^2.3.4",
+    "gh-pages": "^3.1.0",
     "graphql": "^15.4.0",
     "react": "^17.0.1",
     "react-animate-on-scroll": "^2.1.5",
