@@ -1,0 +1,37 @@
+.boxes {
+    background-color:#4a4a4a ;
+    box-shadow: 0px 12px 18px -6px rgba(0, 0, 0, 0.3);
+    border-left:3px solid orange;
+    text-align:center;
+    font-size: 80px;
+    text-shadow: 1px 1px 2px black;
+    
+}
+
+.grids{
+    margin-left:50%;
+}
+
+.box{
+    border:1px solid orange;
+    box-shadow: 0px 12px 18px -6px rgba(0, 0, 0, 0.3);
+}
+
+.veille{
+    border-left:2px solid orange;
+    font-family : 'Snell Roundhand', cursive;
+}
+
+.non:hover .oui{
+    transition: all 0.5s; 
+    margin-left: 30%;
+}
+
+.text-position{
+    position: absolute;
+    opacity: 0;
+}
+.non:hover .text-position{
+    transition: all 0.5s; 
+    opacity: 1;
+}

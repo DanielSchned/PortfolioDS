@@ -1,0 +1,110 @@
+
+
+p{
+
+  color: grey;
+}
+
+.div-center{
+  width: 100%;
+  margin-top: 5%;
+}
+
+hr{
+  width: 95%;
+  border: 0.1mm ridge grey 
+}
+
+h7{
+  color: grey;
+  font-size:38px;
+  font-family: 'Courier New', monospace;
+}
+
+.vertical-line{
+  border-left: 2px solid #000;
+  display: inline-block;
+  height: 130px;
+  margin: 0 20px;
+}
+
+.ambitions{
+  font-size: 30px;
+  color: #000;
+  max-width: 30%;
+  margin-left: 35%;
+}
+
+.left-txt{
+  float: right;
+  width: 100%;
+}
+
+.police-portfolio{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.bvn{
+  background-color:#6e6d6d;
+  margin-left: -40%;
+  margin-top: -30%
+}
+
+.pres{
+  
+  margin-left: 60%;
+  border-left:3px solid orange;
+}
+
+.hr{
+  width : 100%;
+  margin-top : 10px;
+  border : 1px solid orange
+}
+
+.border-left{
+  border-left:1px solid #000;
+}
+
+.test{
+  font-family : 'Snell Roundhand', cursive;
+}
+
+.mise{
+  
+    min-height: 40%;
+    height:auto;
+    background-color: #6e6e6e;
+    text-align: center;
+    border-left:2px solid #171717;
+    border-right:2px solid #171717;
+    border-bottom: 2px solid #171717;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+    position: absolute;
+    width: 80%;
+}
+
+#arriereplan{
+
+  position:fixed;
+}
+/* .hoverA{
+  border:"1px solid darkgrey";
+  border-radius:"5px";
+  background-color: "darkgrey";
+  color: "black";
+  text-decoration: "none";
+  font-size: 19px;
+} */
+
+.hoverA:hover{
+  transition : all 0.5s;
+  font-size: 19px;
+}
+
+.hoverA:hover::after{
+  transition : all 0.5s;
+  font-size: 19px;
+}
