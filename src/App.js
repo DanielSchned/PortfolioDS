@@ -75,12 +75,12 @@ function App() {
           
         <div className='mise'>
           
-        <Route exact path ="/" component={Accueil}/>
-        <Route exact path ="/" component={Presentation}/>
-        <Route exact path ="/" component={Competences}/>
-        <Route exact path ="/" component={Titre}/>
-        <Route exact path ="/" component={Box}/>
-        <Route exact path ="/" component={Ambitions}/>
+        <Route exact path ="/PortfolioDS" component={Accueil}/>
+        <Route exact path ="/PortfolioDS" component={Presentation}/>
+        <Route exact path ="/PortfolioDS" component={Competences}/>
+        <Route exact path ="/PortfolioDS" component={Titre}/>
+        <Route exact path ="/PortfolioDS" component={Box}/>
+        <Route exact path ="/PortfolioDS" component={Ambitions}/>
         
 
         <Route path="/Veille" component={Veille}/>

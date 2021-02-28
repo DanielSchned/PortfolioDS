@@ -15,7 +15,7 @@ function Topbar() {
            
             <ul style ={{display: 'flex'}}>
                     <li className="police-portfolio" style={{listStyle:'none',  marginTop:10, fontSize:25}}>PORTFOLIO</li>
-                    <li style={{listStyle:'none',  marginTop:10, fontSize:25}}><Link to = "/"><Button style = {{color: 'grey'}}>A propos de moi</Button></Link></li>
+                    <li style={{listStyle:'none',  marginTop:10, fontSize:25}}><Link to = "/PortfolioDS"><Button style = {{color: 'grey'}}>A propos de moi</Button></Link></li>
                     <li style={{listStyle:'none',  marginTop:10, fontSize:25}}><Link to = "/Veille"><Button style = {{color: 'grey'}}>Veille Technologique</Button></Link></li>
                     <li style={{listStyle:'none',  marginTop:10, fontSize:25}}><Link to = "/CV"><Button style = {{color: 'grey'}}>CV</Button></Link></li>
                     <li style={{listStyle:'none',  marginTop:10, fontSize:25}}><Link to = "/Projets"><Button style = {{color: 'grey'}}>Projets</Button></Link></li>
