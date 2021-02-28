@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "index.js",
-  "homepage": "https://danielschned.github.io/PortfolioDS/src/index.js",
+  "homepage": "https://danielschned.github.io/PortfolioDS/.",
   "dependencies": {
     "@apollo/client": "^3.3.6",
     "@material-ui/core": "^4.11.0",
@@ -27,6 +27,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
