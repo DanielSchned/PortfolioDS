@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PortfolioDS/static/css/main.cca6e171.chunk.css",
-    "main.js": "/PortfolioDS/static/js/main.1d35d1de.chunk.js",
-    "main.js.map": "/PortfolioDS/static/js/main.1d35d1de.chunk.js.map",
+    "main.css": "/PortfolioDS/static/css/main.76e55983.chunk.css",
+    "main.js": "/PortfolioDS/static/js/main.046bc321.chunk.js",
+    "main.js.map": "/PortfolioDS/static/js/main.046bc321.chunk.js.map",
     "runtime-main.js": "/PortfolioDS/static/js/runtime-main.604e6f3e.js",
     "runtime-main.js.map": "/PortfolioDS/static/js/runtime-main.604e6f3e.js.map",
     "static/css/2.ec02d681.chunk.css": "/PortfolioDS/static/css/2.ec02d681.chunk.css",
-    "static/js/2.ffb78c03.chunk.js": "/PortfolioDS/static/js/2.ffb78c03.chunk.js",
-    "static/js/2.ffb78c03.chunk.js.map": "/PortfolioDS/static/js/2.ffb78c03.chunk.js.map",
+    "static/js/2.cc8eacf7.chunk.js": "/PortfolioDS/static/js/2.cc8eacf7.chunk.js",
+    "static/js/2.cc8eacf7.chunk.js.map": "/PortfolioDS/static/js/2.cc8eacf7.chunk.js.map",
     "static/js/3.ef45d61f.chunk.js": "/PortfolioDS/static/js/3.ef45d61f.chunk.js",
     "static/js/3.ef45d61f.chunk.js.map": "/PortfolioDS/static/js/3.ef45d61f.chunk.js.map",
     "index.html": "/PortfolioDS/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/PortfolioDS/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.cca6e171.chunk.css.map": "/PortfolioDS/static/css/main.cca6e171.chunk.css.map",
-    "static/js/2.ffb78c03.chunk.js.LICENSE.txt": "/PortfolioDS/static/js/2.ffb78c03.chunk.js.LICENSE.txt",
+    "static/css/main.76e55983.chunk.css.map": "/PortfolioDS/static/css/main.76e55983.chunk.css.map",
+    "static/js/2.cc8eacf7.chunk.js.LICENSE.txt": "/PortfolioDS/static/js/2.cc8eacf7.chunk.js.LICENSE.txt",
     "static/media/CV_2021-02-12_Daniel_Schneider.2ba97029.pdf": "/PortfolioDS/static/media/CV_2021-02-12_Daniel_Schneider.2ba97029.pdf",
     "static/media/LeMonde.56526baf.png": "/PortfolioDS/static/media/LeMonde.56526baf.png",
     "static/media/Mskeys.d05a33aa.png": "/PortfolioDS/static/media/Mskeys.d05a33aa.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.604e6f3e.js",
     "static/css/2.ec02d681.chunk.css",
-    "static/js/2.ffb78c03.chunk.js",
-    "static/css/main.cca6e171.chunk.css",
-    "static/js/main.1d35d1de.chunk.js"
+    "static/js/2.cc8eacf7.chunk.js",
+    "static/css/main.76e55983.chunk.css",
+    "static/js/main.046bc321.chunk.js"
   ]
 }
