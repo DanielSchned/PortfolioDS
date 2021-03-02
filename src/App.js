@@ -85,18 +85,23 @@ function App() {
         <Route exact path ="/PortfolioDS" component={Titre}/>
         <Route exact path ="/PortfolioDS" component={Box}/>
         <Route exact path ="/PortfolioDS" component={Ambitions}/>
-        <Route exact path ="/PortfolioDS" component={Footer}/>
+        
         
 
         <Route path="/Veille" component={Veille}/>
-        <Route path ="/Veille" component={Footer}/>
+        
         <Route path="/Projets" component={Projets}/>
-        <Route path ="/Projets" component={Footer}/>
+      
         <Route path="/CV" component={CV}/>
+
+        
         <Route path ="/CV" component={Footer}/>
+        <Route path ="/Projets" component={Footer}/>
+        <Route path ="/Veille" component={Footer}/>
+        <Route exact path ="/PortfolioDS" component={Footer}/>
 
         </div>
- 
+      
       </Router>
 
     </div>

@@ -30,7 +30,7 @@ function Veille() {
         <div data-aos = 'fade-left' className="test" style={{ marginTop:'15%' ,color: 'white', fontSize:55, textDecoration:'underline'}}> Youtube </div>
         <img data-aos="fade-left" className ='box' src={Youtube} style={{marginTop: 83, height: 400, width: 400, borderRadius:10, marginLeft:'-50%'}} />
         <p data-aos="fade-left" className ="veille" style = {{color:'white', marginLeft:'39%', marginTop:'-20%', maxWidth:400, backgroundColor:'#2b2b2b', borderRadius: 5}}>Avec Youtube, je suis notifié des vidéos que les créateurs sortent, en conséquence, je suis tenu à l'actualité lorsqu'une nouveautée sort corcernant la programmation Web.</p>
-        <div style = {{marginTop: 210}}><hr /></div>
+        <div style = {{marginTop: 210}}></div>
       </div>
     
     );
