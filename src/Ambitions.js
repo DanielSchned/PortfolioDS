@@ -22,7 +22,6 @@ function Ambitions() {
         </ul>
         
         </div>
-        <hr className="hr"/>
       </div>
     );
   }

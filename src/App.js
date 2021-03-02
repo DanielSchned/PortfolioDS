@@ -1,6 +1,7 @@
 
 import './App.css';
 import './Formulaire.css';
+import './index.css';
 import Topbar from './Topbar'
 import Accueil from './Accueil';
 import Presentation from './Presentation';
@@ -11,6 +12,7 @@ import Ambitions from './Ambitions';
 import Veille from './Veille';
 import Projets from './Projets';
 import CV from './CV';
+import Footer from './Footer';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
 import Particles from 'react-particles-js';
 
@@ -83,11 +85,15 @@ function App() {
         <Route exact path ="/PortfolioDS" component={Titre}/>
         <Route exact path ="/PortfolioDS" component={Box}/>
         <Route exact path ="/PortfolioDS" component={Ambitions}/>
+        <Route exact path ="/PortfolioDS" component={Footer}/>
         
 
         <Route path="/Veille" component={Veille}/>
+        <Route path ="/Veille" component={Footer}/>
         <Route path="/Projets" component={Projets}/>
+        <Route path ="/Projets" component={Footer}/>
         <Route path="/CV" component={CV}/>
+        <Route path ="/CV" component={Footer}/>
 
         </div>
  

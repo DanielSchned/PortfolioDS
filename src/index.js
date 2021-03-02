@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {Helmet} from "react-helmet";
+import Footer from './Footer'
 
 const TITLE = 'Portfolio Daniel'
 
@@ -12,7 +13,6 @@ ReactDOM.render(
   <React.StrictMode>
     <Helmet><title>{TITLE}</title></Helmet>
     <App />
-    
 
     
   </React.StrictMode>,
