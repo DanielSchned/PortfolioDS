@@ -42,7 +42,7 @@ function App() {
 	        },
 	        "move": {
 	            "direction": "bottom",
-	            "speed": 0.20
+	            "speed": 0.50
 	        },
 	        "size": {
 	            "value": 1

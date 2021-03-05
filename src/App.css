@@ -15,12 +15,6 @@ hr{
   border: 0.1mm ridge grey 
 }
 
-h7{
-  color: grey;
-  font-size:38px;
-  font-family: 'Courier New', monospace;
-}
-
 .vertical-line{
   border-left: 2px solid #000;
   display: inline-block;

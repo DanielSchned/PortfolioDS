@@ -16,8 +16,10 @@ function Box() {
 
         <li data-aos="fade-up" className="boxes" style = {{marginRight: 25}}> C# </li>
         <li data-aos="fade-up" className="boxes" style = {{marginRight: 25}}> PHP </li>
-        <li data-aos="fade-up" className="boxes" style = {{marginRight: 25}}> Java </li>
+        <li data-aos="fade-up" className="boxes" style = {{marginRight: 25}}> JAVA </li>
         <li data-aos="fade-up" className="boxes" style = {{marginRight: 25}}>HTML/CSS/JS </li>
+        <li data-aos="fade-up" className="boxes" style = {{marginRight: 25}}>PYTHON </li>
+
 
         <hr className="hr"/>
       </ul>
