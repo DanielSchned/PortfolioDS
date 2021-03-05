@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css';
-import PDF from './CV_2021-02-12_Daniel_Schneider.pdf';
+import PDF from './CV_2021-03-05_Daniel_Schneider.pdf';
 import ScreenPDF from './ScreenCV.png';
 
 
