@@ -1,30 +1,33 @@
 {
   "files": {
-    "main.css": "/PortfolioDS/static/css/main.dd33f8a2.chunk.css",
-    "main.js": "/PortfolioDS/static/js/main.d6527aa8.chunk.js",
-    "main.js.map": "/PortfolioDS/static/js/main.d6527aa8.chunk.js.map",
+    "main.css": "/PortfolioDS/static/css/main.93f10a2b.chunk.css",
+    "main.js": "/PortfolioDS/static/js/main.6205cfdf.chunk.js",
+    "main.js.map": "/PortfolioDS/static/js/main.6205cfdf.chunk.js.map",
     "runtime-main.js": "/PortfolioDS/static/js/runtime-main.604e6f3e.js",
     "runtime-main.js.map": "/PortfolioDS/static/js/runtime-main.604e6f3e.js.map",
     "static/css/2.ec02d681.chunk.css": "/PortfolioDS/static/css/2.ec02d681.chunk.css",
-    "static/js/2.cc8eacf7.chunk.js": "/PortfolioDS/static/js/2.cc8eacf7.chunk.js",
-    "static/js/2.cc8eacf7.chunk.js.map": "/PortfolioDS/static/js/2.cc8eacf7.chunk.js.map",
+    "static/js/2.ddae0779.chunk.js": "/PortfolioDS/static/js/2.ddae0779.chunk.js",
+    "static/js/2.ddae0779.chunk.js.map": "/PortfolioDS/static/js/2.ddae0779.chunk.js.map",
     "static/js/3.ef45d61f.chunk.js": "/PortfolioDS/static/js/3.ef45d61f.chunk.js",
     "static/js/3.ef45d61f.chunk.js.map": "/PortfolioDS/static/js/3.ef45d61f.chunk.js.map",
     "index.html": "/PortfolioDS/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/PortfolioDS/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.dd33f8a2.chunk.css.map": "/PortfolioDS/static/css/main.dd33f8a2.chunk.css.map",
-    "static/js/2.cc8eacf7.chunk.js.LICENSE.txt": "/PortfolioDS/static/js/2.cc8eacf7.chunk.js.LICENSE.txt",
+    "static/css/main.93f10a2b.chunk.css.map": "/PortfolioDS/static/css/main.93f10a2b.chunk.css.map",
+    "static/js/2.ddae0779.chunk.js.LICENSE.txt": "/PortfolioDS/static/js/2.ddae0779.chunk.js.LICENSE.txt",
     "static/media/CV_2021-02-12_Daniel_Schneider.2ba97029.pdf": "/PortfolioDS/static/media/CV_2021-02-12_Daniel_Schneider.2ba97029.pdf",
     "static/media/LeMonde.56526baf.png": "/PortfolioDS/static/media/LeMonde.56526baf.png",
     "static/media/Mskeys.d05a33aa.png": "/PortfolioDS/static/media/Mskeys.d05a33aa.png",
     "static/media/ProjetStage.74ed408f.png": "/PortfolioDS/static/media/ProjetStage.74ed408f.png",
+    "static/media/ScreenCV.f31a25ff.png": "/PortfolioDS/static/media/ScreenCV.f31a25ff.png",
+    "static/media/ScreenLeMonde.cd3e3160.png": "/PortfolioDS/static/media/ScreenLeMonde.cd3e3160.png",
+    "static/media/ScreenTwitter.0c93e7e2.png": "/PortfolioDS/static/media/ScreenTwitter.0c93e7e2.png",
     "static/media/Twitter.26439bbe.png": "/PortfolioDS/static/media/Twitter.26439bbe.png"
   },
   "entrypoints": [
     "static/js/runtime-main.604e6f3e.js",
     "static/css/2.ec02d681.chunk.css",
-    "static/js/2.cc8eacf7.chunk.js",
-    "static/css/main.dd33f8a2.chunk.css",
-    "static/js/main.d6527aa8.chunk.js"
+    "static/js/2.ddae0779.chunk.js",
+    "static/css/main.93f10a2b.chunk.css",
+    "static/js/main.6205cfdf.chunk.js"
   ]
 }
