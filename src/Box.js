@@ -21,7 +21,7 @@ function Box() {
         <li data-aos="fade-up" className="boxes" style = {{marginRight: 25}}>PYTHON </li>
 
 
-        <hr className="hr"/>
+        <hr className="hr" />
       </ul>
     );
   }

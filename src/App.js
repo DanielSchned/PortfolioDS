@@ -13,6 +13,8 @@ import Veille from './Veille';
 import Projets from './Projets';
 import CV from './CV';
 import Footer from './Footer';
+import ChronoPage from './Chrono';
+import TitreChrono from './TitreChrono';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
 import Particles from 'react-particles-js';
 
@@ -81,7 +83,10 @@ function App() {
           
         <Route exact path ="/PortfolioDS" component={Accueil}/>
         <Route exact path ="/PortfolioDS" component={Presentation}/>
+
         <Route exact path ="/PortfolioDS" component={Competences}/>
+        <Route exact path ="/PortfolioDS" component={TitreChrono}/>
+        <Route exact path ="/PortfolioDS" component={ChronoPage}/>
         <Route exact path ="/PortfolioDS" component={Titre}/>
         <Route exact path ="/PortfolioDS" component={Box}/>
         <Route exact path ="/PortfolioDS" component={Ambitions}/>
