@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PortfolioDS/static/css/main.93f10a2b.chunk.css",
-    "main.js": "/PortfolioDS/static/js/main.f58a672f.chunk.js",
-    "main.js.map": "/PortfolioDS/static/js/main.f58a672f.chunk.js.map",
+    "main.js": "/PortfolioDS/static/js/main.a741af04.chunk.js",
+    "main.js.map": "/PortfolioDS/static/js/main.a741af04.chunk.js.map",
     "runtime-main.js": "/PortfolioDS/static/js/runtime-main.604e6f3e.js",
     "runtime-main.js.map": "/PortfolioDS/static/js/runtime-main.604e6f3e.js.map",
     "static/css/2.ec02d681.chunk.css": "/PortfolioDS/static/css/2.ec02d681.chunk.css",
@@ -16,9 +16,9 @@
     "static/js/2.ddae0779.chunk.js.LICENSE.txt": "/PortfolioDS/static/js/2.ddae0779.chunk.js.LICENSE.txt",
     "static/media/CV_2021-03-05_Daniel_Schneider.65c080c4.pdf": "/PortfolioDS/static/media/CV_2021-03-05_Daniel_Schneider.65c080c4.pdf",
     "static/media/LeMonde.56526baf.png": "/PortfolioDS/static/media/LeMonde.56526baf.png",
-    "static/media/Mskeys.d05a33aa.png": "/PortfolioDS/static/media/Mskeys.d05a33aa.png",
     "static/media/ProjetStage.74ed408f.png": "/PortfolioDS/static/media/ProjetStage.74ed408f.png",
     "static/media/ScreenCV.a5dd4912.png": "/PortfolioDS/static/media/ScreenCV.a5dd4912.png",
+    "static/media/ScreenGeststage.1cb4cc84.png": "/PortfolioDS/static/media/ScreenGeststage.1cb4cc84.png",
     "static/media/ScreenLeMonde.cd3e3160.png": "/PortfolioDS/static/media/ScreenLeMonde.cd3e3160.png",
     "static/media/ScreenTwitter.0c93e7e2.png": "/PortfolioDS/static/media/ScreenTwitter.0c93e7e2.png",
     "static/media/Twitter.26439bbe.png": "/PortfolioDS/static/media/Twitter.26439bbe.png"
@@ -28,6 +28,6 @@
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.ddae0779.chunk.js",
     "static/css/main.93f10a2b.chunk.css",
-    "static/js/main.f58a672f.chunk.js"
+    "static/js/main.a741af04.chunk.js"
   ]
 }
