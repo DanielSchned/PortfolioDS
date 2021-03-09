@@ -1,7 +1,7 @@
 import React from "react";
 import './App.css';
 import ProjetStage from './ProjetStage.png';
-import Mskeys from './Mskeys.png';
+import Geststage from './ScreenGeststage.png';
 import RPG from './ScreenRPG.png';
 
 function Projets() {
@@ -39,13 +39,14 @@ function Projets() {
       
       <div>        
         <p className="test" style = {{color: 'black', fontSize:35}}>
-            Gestionnaire de licences, Mskeys
+          Evolution de l’application de gestion des stages du LLB, geststage
         </p>
       </div>
 
       <div className = "non">
-      <span className = "text-position" style = {{width:"20%", textAlign:"left", marginLeft: 30}}>Le lycée Laetitia Bonaparte dispose d’un abonnement Azure Dev Tools For Teaching et bénéficie ainsi de licences pour de nombreux outils Microsoft comme notamment les systèmes d’exploitation Windows 10 et Windows Server 2019.<br /><br />Language utilisés : html/css/js <br /><br />Framework utilisé : React</span>
-      <img className ='box oui' src={Mskeys} style = {{marginBottom:34, width: "60%"}} />
+      <span className = "text-position" style = {{width:"20%", textAlign:"left", marginLeft: 30}}>Outil de recherche de stage, en fonction de la spécialité de l'étudiant.
+        <br /><br />Language utilisés : html/css/js <br /><br />Framework utilisé : React</span>
+      <img className ='box oui' src={Geststage} style = {{marginBottom:34, width: "60%"}} />
       </div>
       
       
