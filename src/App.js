@@ -11,9 +11,13 @@ import Box from './Box';
 import Ambitions from './Ambitions';
 import Veille from './Veille';
 import Projets from './Projets';
+import Geststages from './Geststages';
+import Mskeys from './Mskeys';
 import CV from './CV';
 import Footer from './Footer';
 import ChronoPage from './Chrono';
+import Wordpress from './Wordpress';
+import TableauDeBord from './TableauDeBord';
 import TitreChrono from './TitreChrono';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
 import Particles from 'react-particles-js';
@@ -104,6 +108,11 @@ function App() {
         <Route path ="/Projets" component={Footer}/>
         <Route path ="/Veille" component={Footer}/>
         <Route exact path ="/PortfolioDS" component={Footer}/>
+
+        <Route exact path ="/TableauDeBord" component = {TableauDeBord}/>
+        <Route exact path ="/Geststages" component = {Geststages}/>
+        <Route exact path ="/Wordpress" component = {Wordpress}/>
+        <Route exact path ="/Mskeys" component = {Mskeys}/>
 
         </div>
       
