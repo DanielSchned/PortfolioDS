@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PortfolioDS/static/css/main.b2084aa2.chunk.css",
-    "main.js": "/PortfolioDS/static/js/main.680ede26.chunk.js",
-    "main.js.map": "/PortfolioDS/static/js/main.680ede26.chunk.js.map",
+    "main.js": "/PortfolioDS/static/js/main.e5cabbed.chunk.js",
+    "main.js.map": "/PortfolioDS/static/js/main.e5cabbed.chunk.js.map",
     "runtime-main.js": "/PortfolioDS/static/js/runtime-main.d93c845f.js",
     "runtime-main.js.map": "/PortfolioDS/static/js/runtime-main.d93c845f.js.map",
     "static/css/2.ec02d681.chunk.css": "/PortfolioDS/static/css/2.ec02d681.chunk.css",
@@ -17,14 +17,14 @@
     "static/media/CV_2021-03-05_Daniel_Schneider.65c080c4.pdf": "/PortfolioDS/static/media/CV_2021-03-05_Daniel_Schneider.65c080c4.pdf",
     "static/media/CommitGeststages.27c0cc71.png": "/PortfolioDS/static/media/CommitGeststages.27c0cc71.png",
     "static/media/DocDev.aa0047a9.png": "/PortfolioDS/static/media/DocDev.aa0047a9.png",
-    "static/media/DocMskeys.fb7f479b.png": "/PortfolioDS/static/media/DocMskeys.fb7f479b.png",
     "static/media/DocUser.74bf38c2.png": "/PortfolioDS/static/media/DocUser.74bf38c2.png",
     "static/media/DocWordpress.cd11a669.png": "/PortfolioDS/static/media/DocWordpress.cd11a669.png",
+    "static/media/Ecombox.fa0143c1.png": "/PortfolioDS/static/media/Ecombox.fa0143c1.png",
     "static/media/LeMonde.56526baf.png": "/PortfolioDS/static/media/LeMonde.56526baf.png",
-    "static/media/Mskeys.0b67d72c.png": "/PortfolioDS/static/media/Mskeys.0b67d72c.png",
     "static/media/NewGeststages.4c970289.png": "/PortfolioDS/static/media/NewGeststages.4c970289.png",
     "static/media/ProjetStage.74ed408f.png": "/PortfolioDS/static/media/ProjetStage.74ed408f.png",
     "static/media/ScreenCV.a5dd4912.png": "/PortfolioDS/static/media/ScreenCV.a5dd4912.png",
+    "static/media/ScreenEcombox.489e25c3.png": "/PortfolioDS/static/media/ScreenEcombox.489e25c3.png",
     "static/media/ScreenGeststage.1cb4cc84.png": "/PortfolioDS/static/media/ScreenGeststage.1cb4cc84.png",
     "static/media/ScreenLeMonde.cd3e3160.png": "/PortfolioDS/static/media/ScreenLeMonde.cd3e3160.png",
     "static/media/ScreenTwitter.0c93e7e2.png": "/PortfolioDS/static/media/ScreenTwitter.0c93e7e2.png",
@@ -36,6 +36,6 @@
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.b0140b42.chunk.js",
     "static/css/main.b2084aa2.chunk.css",
-    "static/js/main.680ede26.chunk.js"
+    "static/js/main.e5cabbed.chunk.js"
   ]
 }
