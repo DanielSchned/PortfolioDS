@@ -3,7 +3,7 @@ import './App.css';
 import ProjetStage from './ProjetStage.png';
 import Geststage from './ScreenGeststage.png';
 import WordpressImg from './Wordpress.png';
-import Mskeys from './Mskeys.png';
+import Mskeys from './Ecombox.png';
 import RPG from './ScreenRPG.png';
 import { Link } from 'react-router-dom';
 import {AppBar, Toolbar, Typography, Button} from '@material-ui/core';
@@ -66,30 +66,14 @@ function Projets() {
 
       <div>        
         <p className="test" style = {{color: 'black', fontSize:45}}>
-            Gestionnaire de licences Microsoft, Mskeys
+          Développement de l'application desktop, E-combox
         </p>
       </div>
       <div className = "non">
-      <span className = "text-position" style = {{width:"20%", textAlign:"left", marginLeft: 30}}>Outil de suivi pour les licences Windows<br /><br />Language utilisés : html/css/js, PHP <br /><br />Framework utilisé : Aucun</span>
-      <Link to = "/Mskeys"><img className ='box oui' src={Mskeys} style = {{marginBottom:34, width: "60%"}} /></Link>
-      </div>
-      
-    <hr />
-      <div>        
-        <p className="test" style = {{color: 'black', fontSize:45,textDecoration:'underline'}}>
-            Projet personnel
-        </p>
-      </div>
-      <div>        
-        <p className="test" style = {{color: 'black', fontSize:35}}>
-            Jeu de rôle RPG, JAVA
-        </p>
+      <span className = "text-position" style = {{width:"20%", textAlign:"left", marginLeft: 20}}>L’application e-comBox permet d'installer le plus simplement possible, au sein d'un réseau d'établissement, sur un portable personnel ou chez un hébergeur en ligne (serveur OVH par exemple), plusieurs instances de différentes applications (prestashop, wordpress, mautic, odoo, kanboard, etc) sous forme de conteneurs docker : les serveurs pourront être créés à la demande en tant que de besoin</span>
+      <Link to = "/Mskeys"><img className ='box oui' src={Mskeys} style = {{ width: "30%"}} /></Link>
       </div>
 
-      <div className = "non">
-      <span className = "text-position" style = {{width:"20%", textAlign:"left", marginLeft: 30}}>C'est un jeu de rôle en JAVA, afin de se former sur le langage utilisé<br />Langage utilisé : JAVA</span>
-      <img className ='box oui' src={RPG} style = {{marginBottom:34, width: "40%"}} />
-      </div>
 
       </header>
       </div>
