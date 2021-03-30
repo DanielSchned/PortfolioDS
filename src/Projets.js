@@ -34,7 +34,7 @@ function Projets() {
           </p>
         </div>
         <div className = "non">
-          <span className = "text-position" style = {{width:"20%", textAlign:"left", marginLeft: 20, color:"white"}}>L’application e-comBox permet d'installer le plus simplement possible, au sein d'un réseau d'établissement, sur un portable personnel ou chez un hébergeur en ligne (serveur OVH par exemple), plusieurs instances de différentes applications (prestashop, wordpress, mautic, odoo, kanboard, etc) sous forme de conteneurs docker : les serveurs pourront être créés à la demande en tant que de besoin</span>
+          <span className = "text-position" style = {{width:"20%", textAlign:"left", marginLeft: 20, color:"white"}}><strong>LLB</strong><br />L’application e-comBox permet d'installer le plus simplement possible, au sein d'un réseau d'établissement, sur un portable personnel ou chez un hébergeur en ligne (serveur OVH par exemple), plusieurs instances de différentes applications (prestashop, wordpress, mautic, odoo, kanboard, etc) sous forme de conteneurs docker : les serveurs pourront être créés à la demande en tant que de besoin</span>
           <Link to = "/Mskeys"><img className ='box oui' src={Mskeys} style = {{ width: "30%"}} /></Link>
         </div>
 
@@ -47,7 +47,7 @@ function Projets() {
           </p>
         </div>
         <div className = "non">
-          <span className = "text-position" style = {{width:"20%", textAlign:"left", marginLeft: 30, color:"white"}}>Outil de gestion d'événement.</span>
+          <span className = "text-position" style = {{width:"20%", textAlign:"left", marginLeft: 30, color:"white"}}><strong>LLB</strong><br />Outil de gestion d'événement.</span>
           <Link to = "/Wordpress"><img className ='box oui' src={WordpressImg} style = {{width: "30%"}} /></Link>
         </div>
 
@@ -58,7 +58,7 @@ function Projets() {
         </div>
 
         <div className = "non">
-          <span className = "text-position" style = {{width:"20%", textAlign:"left", marginLeft: 30, color:"white"}}>Outil de recherche de stage, en fonction de la spécialité de l'étudiant.
+          <span className = "text-position" style = {{width:"20%", textAlign:"left", marginLeft: 30, color:"white"}}><strong>LLB</strong><br />Outil de recherche de stage, en fonction de la spécialité de l'étudiant.
             <br /><br />Language utilisés : html/css/js <br /><br />Framework utilisé : React</span>
           <Link to = "/Geststages"><img className ='box oui' src={Geststage} style = {{ width: "30%"}} /></Link>
         </div>
@@ -77,7 +77,7 @@ function Projets() {
           </p>
         </div>
         <div className = "non" >
-          <span className = "text-position" style = {{width:"20%", textAlign:"left", marginLeft: 30, color:"white"}}>Tableau de bord en HTML5/CSS/JS et PHP pour la page ADMIN, fais lors d'un stage en entreprise, il représentait un moyen d'accéder aux différentes ressources rapidement.<br /><br />Langage utilisé : PHP<br /><br />Framework : aucun<br /><br />But : Permettre l'accès plus rapide aux sources de l'application grâce à un tableau de bord</span>
+          <span className = "text-position" style = {{width:"20%", textAlign:"left", marginLeft: 30, color:"white"}}><strong>SAGES INFORMATIQUE</strong><br />Tableau de bord en HTML5/CSS/JS et PHP pour la page ADMIN, fais lors d'un stage en entreprise, il représentait un moyen d'accéder aux différentes ressources rapidement.<br /><br />Langage utilisé : PHP<br /><br />Framework : aucun<br /><br />But : Permettre l'accès plus rapide aux sources de l'application grâce à un tableau de bord</span>
           <Link to = "/TableauDeBord"><img className ='box oui' src={ProjetStage} /></Link>
         </div>
 

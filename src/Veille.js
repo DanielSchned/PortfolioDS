@@ -14,6 +14,10 @@ import Aos from 'aos';
 import "aos/dist/aos.css";
 
 
+import ArrowDown from './arrowDown.png';
+import './ArrowDown.css';
+
+
 function Veille() {
 
   useEffect(() => {
@@ -32,8 +36,9 @@ function Veille() {
         <p className ="veille" style = {{color:'white', marginTop:'-400px', maxWidth:600, backgroundColor:'#2b2b2b', borderRadius: 5 }}>Je suis toutes les informations qui m'intéresse sur Twitter tel que ReactNewsletter, ce réseau est très performant car il est possible de recevoir un mail à chaque nouveauté. Il sert égamelement à suivre l'actualité générale sur les langages de programmations WEB, c'est-à-dire les nouveautés en React, PHP etc..</p>
         <img data-aos="fade-left" className ='box' src={PreuveTwitter} style = {{borderRadius:5}}/>
         </div>
+        <img className="animArrow" style = {{width:"50px", marginTop:"4%"}} src = {ArrowDown} />
 
-        <div className="test" style={{ marginTop:'15%' ,color: 'black', fontSize:55, textDecoration:'underline'}}> LeMonde </div>
+        <div className="test" style={{ marginTop:'7%' ,color: 'black', fontSize:55, textDecoration:'underline'}}> LeMonde </div>
         <img data-aos="fade-left" className ='box' src={LeMonde} style={{marginTop: 83, height: 400, width: 400, borderRadius:10, marginLeft:'-70%'}} />
 
         <div style={{marginLeft: "35%", textAlign:"left"}}>
