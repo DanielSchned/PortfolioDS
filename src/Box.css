@@ -27,6 +27,11 @@
     margin-left: 30%;
 }
 
+.non:hover{
+    transition: all 0.5s; 
+    background-color: grey;
+}
+
 .text-position{
     position: absolute;
     opacity: 0;
@@ -34,4 +39,9 @@
 .non:hover .text-position{
     transition: all 0.5s; 
     opacity: 1;
+}
+
+#left ul{
+    margin-left:-10%;
+    text-align: left;
 }

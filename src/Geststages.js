@@ -15,10 +15,29 @@ function Geststages() {
         <div>
             <div className = "center">        
                     <p className="test" style = {{color: 'black', fontSize:70}}>
+                        Contexte 
+                    </p>
+            </div>
+                <p className = "test" style = {{color: 'black', fontSize:25, marginBottom:150, marginLeft:"7%", marginRight:"7%"}}>Le lycée Laetitia propose plusieurs Sections de Techniciens Supérieurs : Services Informatiques aux Organisations (SIO), Support à l’Action Manageriale (SAM), Négociation et Digitalisation de la Relation Client (NDRC), Systèmes Numériques (SN), Comptabilité et Gestion (CG). 
+ </p>
+        </div>
+        <div>
+            <div className = "center">        
+                    <p className="test" style = {{color: 'black', fontSize:70}}>
                         Présentation 
                     </p>
             </div>
-                <p style = {{color: 'black', fontSize:45, marginBottom:150}}>Cette application permet de gérer les stages pour les étudiants de BTS SIO de première et deuxième année </p>
+                <p className = "test" style = {{color: 'black', fontSize:25, marginBottom:150, marginLeft:"7%", marginRight:"7%"}}>Cette application permet de gérer les stages pour les étudiants de BTS SIO de première et deuxième année </p>
+        </div>
+        <div>
+            <div className = "center">        
+                    <p className="test" style = {{color: 'black', fontSize:70}}>
+                        Mission 
+                    </p>
+            </div>
+                <p className = "test" style = {{color: 'black', fontSize:25, marginBottom:150, marginLeft:"7%", marginRight:"7%"}}> Une centralisation de toutes les informations sur les stages des étudiants faciliterait d’une part la recherche d’entreprise par l’étudiant et d’autre part le suivi par l’équipe pédagogique.
+Il a été décidé de faire évoluer cette application pour basculer sur des technologies actuelles (React et API GraphQL).
+</p>
         </div>
             <div className = "center">        
                 <p className="test" style = {{color: 'black', fontSize:70}}>
@@ -45,6 +64,15 @@ function Geststages() {
 
             <img style = {{width : "500px"}}src = {NewGeststages}/>
 
+            <div>
+            <div className = "center">        
+                    <p className="test" style = {{color: 'black', fontSize:70}}>
+                        Finalité
+                    </p>
+            </div>
+                <p className = "test" style = {{color: 'black', fontSize:25, marginBottom:150, marginLeft:"7%", marginRight:"7%"}}>Cette application sera à la page, car l'ancienne technologie utilisée était dépassée, ce qui rend le tout plus moderne.
+ </p>
+        </div>
         </div>
     );
   }

@@ -17,13 +17,13 @@ import "aos/dist/aos.css";
 function Veille() {
 
   useEffect(() => {
-    Aos.init({duration: 2000});
+    Aos.init({duration: 1000});
   }, []);
 
     return (
         
       <div >     
-        <div className="test" style={{ marginTop:'5%' ,color: 'white', fontSize:70, backgroundColor: '#2b2b2b'}}>Veille Technologique  <hr className="hr" /> </div>
+        <div className="test" style={{ marginTop:'81px' ,color: 'white', fontSize:80, backgroundColor: '#2b2b2b'}}>Veille Technologique  <hr className="hr" /> </div>
        
         <div className="test" style={{ marginTop:'5%' ,color: 'black', fontSize:55, textDecoration:'underline'}}> Twitter </div>
         <img className ='box' src={Twitter} style={{marginTop: 83, height: 400, width: 400, borderRadius:10, marginLeft:'-70%'}} />

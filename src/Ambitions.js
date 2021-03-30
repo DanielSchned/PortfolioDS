@@ -6,20 +6,20 @@ import './Competences.css';
 import './Transitions.css';
 import Aos from 'aos';
 import "aos/dist/aos.css";
+import Grid from '@material-ui/core/Grid';
 
 function Ambitions() {
     useEffect(() => {
-        Aos.init({duration: 2000});
+        Aos.init({duration: 1000});
     }, []);
     return (
       <div className="center"> 
         <div>       
           <p data-aos="fade-up" className="test" style = {{color: 'black', fontSize:70}}>Ambitions</p>
-        <ul style = {{textAlign:'center'}}>
-          <li data-aos="fade-down" className="borderleft" style = {{color: 'black', fontSize:45, width: '30%', marginBottom:15}}>J'aimerais intégrer la licence à corte de developpeur fullstack, puis continuer en master si possible</li>
-          <li data-aos="fade-down" className="borderleft" style = {{color: 'black', fontSize:45, width: '30%', marginBottom:15}}>Je souhaite à la fin de mes études, de rentrer dans une équipe de developpeurs</li>
+          
+          <p data-aos="fade-up" className="paragraphe" style = {{color: 'black', fontSize:45, marginBottom:15, marginLeft:"7%", marginRight:"7%"}}>J'aimerais intégrer la licence à corte, puis continuer mes études vers le développeur fullstack si possible</p>
+          <p data-aos="fade-up" className="paragraphe" style = {{color: 'black', fontSize:45, marginBottom:75, marginLeft:"7%", marginRight:"7%"}}>Je souhaite à la fin de mes études, de rentrer dans une équipe de developpeurs</p>
 
-        </ul>
         
         </div>
       </div>

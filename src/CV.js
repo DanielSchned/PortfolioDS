@@ -11,7 +11,7 @@ function CV() {
      
       <header>
       <div>
-      <p className = "test" style={{ marginTop:'5%',fontSize:70, color:'white', backgroundColor: '#2b2b2b'}}>
+      <p className = "test" style={{ marginTop:'81px',fontSize:80, color:'white', backgroundColor: '#2b2b2b'}}>
           CV <br />
         
           <hr className="hr" />

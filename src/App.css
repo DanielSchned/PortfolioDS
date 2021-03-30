@@ -60,8 +60,20 @@ hr{
   border-left:1px solid #000;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 .test{
-  font-family : 'Snell Roundhand', cursive;
+  letter-spacing: -2px;
+
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+.paragraphe{
+  letter-spacing: -2px;
+
+  font-family: 'Nunito', sans-serif;
+
 }
 
 .mise{

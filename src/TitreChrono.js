@@ -6,7 +6,7 @@ function TitreChrono() {
     return (
       <div className = "center">        
         <p className="test" style = {{color: 'black', fontSize:70}}>
-            Chronologie 
+            Parcours 
         </p>
         
       </div>

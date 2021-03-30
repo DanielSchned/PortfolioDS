@@ -21,9 +21,17 @@ import TableauDeBord from './TableauDeBord';
 import TitreChrono from './TitreChrono';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
 import Particles from 'react-particles-js';
+import PageProgress from './lib';
+import Progress from './Progress';
 
+
+
+
+  
+  
 
 function App() {
+
   return (
       
     <div >
@@ -31,7 +39,8 @@ function App() {
       <Router>
 
         <Topbar />
-        <div id = "arriereplan" style = {{height:"200%", width:"100%",zIndex:0}}>
+        
+        <div id = "arriereplan" style = {{height:"200%", width:"100%"}}>
         <Particles
       params={{
 	    "particles": {
@@ -84,7 +93,7 @@ function App() {
           </div>
           
         <div className='mise'>
-          
+
         <Route exact path ="/PortfolioDS" component={Accueil}/>
         <Route exact path ="/PortfolioDS" component={Presentation}/>
 
@@ -94,8 +103,6 @@ function App() {
         <Route exact path ="/PortfolioDS" component={Titre}/>
         <Route exact path ="/PortfolioDS" component={Box}/>
         <Route exact path ="/PortfolioDS" component={Ambitions}/>
-        
-        
 
         <Route path="/Veille" component={Veille}/>
         
